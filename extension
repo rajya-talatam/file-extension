@@ -1,0 +1,3 @@
+file=input("enter the file extension:")
+myfile={"abc.py":"python","abc.java":"java","abc.c":"c","abc.cxx":"c++"}
+print(myfile[file])
